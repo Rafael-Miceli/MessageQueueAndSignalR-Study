@@ -1,0 +1,6 @@
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqStudy\bin\Debug\ConsoleAppMsmqStudy.exe.config
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqStudy\bin\Debug\ConsoleAppMsmqStudy.exe
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqStudy\bin\Debug\ConsoleAppMsmqStudy.pdb
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqStudy\obj\Debug\ConsoleAppMsmqStudy.csprojResolveAssemblyReference.cache
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqStudy\obj\Debug\ConsoleAppMsmqStudy.exe
+c:\users\rafael.miceli\documents\visual studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqStudy\obj\Debug\ConsoleAppMsmqStudy.pdb

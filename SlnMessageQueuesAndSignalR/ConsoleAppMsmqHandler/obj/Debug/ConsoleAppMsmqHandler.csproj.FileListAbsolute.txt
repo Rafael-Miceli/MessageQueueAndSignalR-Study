@@ -1,0 +1,5 @@
+C:\Users\rafael.miceli\Documents\Visual Studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqHandler\bin\Debug\ConsoleAppMsmqHandler.exe.config
+C:\Users\rafael.miceli\Documents\Visual Studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqHandler\bin\Debug\ConsoleAppMsmqHandler.exe
+C:\Users\rafael.miceli\Documents\Visual Studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqHandler\bin\Debug\ConsoleAppMsmqHandler.pdb
+C:\Users\rafael.miceli\Documents\Visual Studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqHandler\obj\Debug\ConsoleAppMsmqHandler.exe
+C:\Users\rafael.miceli\Documents\Visual Studio 2013\Projects\SlnMessageQueuesAndSignalR\ConsoleAppMsmqHandler\obj\Debug\ConsoleAppMsmqHandler.pdb
